@@ -18,7 +18,7 @@ console.log(y);
 ## EDUCATION
 - Bratsk State University
   Courses:
-- TSU. Web programmer: from scratch to the first projects
+- [TSU. Web programmer: from scratch to the first projects](https://www.tgu-dpo.ru/program/webprogrammer)
 ## Languages
 - Russian - native speaker
 - English - A1
